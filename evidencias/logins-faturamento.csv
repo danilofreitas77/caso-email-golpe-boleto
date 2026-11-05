@@ -1,0 +1,7 @@
+data_hora,usuario,evento,ip,pais,dispositivo
+2026-10-07 08:02:11,faturamento@locadora-exemplo.com.br,login_success,203.0.113.25,BR,Windows / Chrome
+2026-10-09 08:15:40,faturamento@locadora-exemplo.com.br,login_success,203.0.113.25,BR,Windows / Chrome
+2026-10-14 07:58:03,faturamento@locadora-exemplo.com.br,login_success,203.0.113.25,BR,Windows / Chrome
+2026-10-16 13:21:57,faturamento@locadora-exemplo.com.br,login_success,203.0.113.25,BR,Windows / Chrome
+2026-10-21 08:04:19,faturamento@locadora-exemplo.com.br,login_success,203.0.113.25,BR,Windows / Chrome
+2026-10-23 08:10:32,faturamento@locadora-exemplo.com.br,login_success,203.0.113.25,BR,Windows / Chrome
